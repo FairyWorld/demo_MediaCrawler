@@ -6,7 +6,7 @@
 ## 主要功能
 
 - [x] 爬取小红书笔记、评论
-- [ ] To do 爬取抖音视频和评论
+- [ ] To do 爬取抖音视频、评论
 
 ## 技术栈
 
@@ -18,11 +18,11 @@
 
 1. 安装依赖库
    `pip install -r requirements.txt`
-2. 安装playwright的webdriver
+2. 安装playwright浏览器驱动
    `playwright install`
 3. 运行爬虫程序
    `python main.py --platform xhs --keywords 健身`
-4. 打开小红书扫二维码码登录
+4. 打开小红书扫二维码登录
 
 ## 运行截图
 ![小红书运行截图](https://s2.loli.net/2023/06/09/PVBe3X5vf4yncrd.gif)
